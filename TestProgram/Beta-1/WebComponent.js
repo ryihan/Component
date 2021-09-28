@@ -39,3 +39,9 @@ const WebComponent = () => (
                   y={0.5}
                   width={1176}
                   height={218}
+                  rx={42.5}
+                />
+              </g>
+            </g>
+          </g>
+        </g>
