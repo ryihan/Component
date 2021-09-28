@@ -59,3 +59,18 @@ const RepeatGridComponent = () => (
           <g transform="translate(59 56)">
             <g className="c" transform="translate(0.491)">
               <rect className="d" width={1177} height={219} rx={43} />
+              <rect
+                className="a"
+                x={0.5}
+                y={0.5}
+                width={1176}
+                height={218}
+                rx={42.5}
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-87 713)">
+        <g transform="translate(27.509 -52)">
+          <g transform="translate(59 56)">
