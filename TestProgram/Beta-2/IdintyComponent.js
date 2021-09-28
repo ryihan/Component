@@ -12,3 +12,8 @@ const IdintyComponent = () => (
       <style>{".a{clip-path:url(#c);}.b{fill:url(#a);}"}</style>
       <pattern
         id="a"
+        preserveAspectRatio="xMidYMid slice"
+        width="100%"
+        height="100%"
+        viewBox="0 0 10780 909"
+      >
