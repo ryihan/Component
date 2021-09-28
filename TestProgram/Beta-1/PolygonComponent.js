@@ -8,7 +8,6 @@
 import React from "react";
 
 const PolygonComponent = () => (
-  <svg width={1125} height={409} viewBox="0 0 1125 409">
   <svg width={758} height={293} viewBox="0 0 758 293">
     <defs>
       <style>{".a{fill:#fff;}.b,.c{stroke:none;}.c{fill:#707070;}"}</style>
