@@ -146,3 +146,9 @@ const WebComponent = () => (
         />
         <path
           className="i"
+          d="M 297.5 1.155075073242188 L 3.7275390625 171 L 591.2724609375 171 L 297.5 1.155075073242188 M 297.5 0 L 595 172 L 0 172 L 297.5 0 Z"
+        />
+      </g>
+      <g className="g" transform="translate(193 80)">
+        <path
+          className="h"
