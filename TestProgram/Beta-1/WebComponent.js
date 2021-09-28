@@ -22,3 +22,12 @@ const WebComponent = () => (
         <rect className="a" width={866.137} height={196.618} />
       </clipPath>
       <clipPath id="d">
+        <rect width={1920} height={1080} />
+      </clipPath>
+    </defs>
+    <g id="c" className="b">
+      <rect className="j" width={1920} height={1080} />
+      <g className="c" transform="translate(87 4)">
+        <g transform="translate(-87 -4)">
+          <g transform="translate(27.509 -52)">
+            <g transform="translate(59 56)">
