@@ -31,3 +31,11 @@ const WebComponent = () => (
         <g transform="translate(-87 -4)">
           <g transform="translate(27.509 -52)">
             <g transform="translate(59 56)">
+              <g className="d" transform="translate(0.491)">
+                <rect className="h" width={1177} height={219} rx={43} />
+                <rect
+                  className="a"
+                  x={0.5}
+                  y={0.5}
+                  width={1176}
+                  height={218}
