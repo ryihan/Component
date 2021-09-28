@@ -157,3 +157,8 @@ const WebComponent = () => (
         <path
           className="i"
           d="M 327.5 1.395965576171875 L 2.4598388671875 318 L 652.5401611328125 318 L 327.5 1.395965576171875 M 327.5 0 L 655 319 L 0 319 L 327.5 0 Z"
+    </g>
+  </svg>
+);
+
+export default WebComponent;
