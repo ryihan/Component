@@ -13,3 +13,21 @@ const RepeatGridComponent = () => (
       <style>
         {
           ".a{fill:none;}.b{clip-path:url(#a);}.c{fill:#ff2323;stroke:#fb0000;}.d{stroke:none;}"
+        }
+      </style>
+      <clipPath id="a">
+        <rect className="a" width={1177} height={1054} />
+      </clipPath>
+    </defs>
+    <g className="b">
+      <g transform="translate(-87 -4)">
+        <g transform="translate(27.509 -52)">
+          <g transform="translate(59 56)">
+            <g className="c" transform="translate(0.491)">
+              <rect className="d" width={1177} height={219} rx={43} />
+              <rect
+                className="a"
+                x={0.5}
+                y={0.5}
+                width={1176}
+                height={218}
