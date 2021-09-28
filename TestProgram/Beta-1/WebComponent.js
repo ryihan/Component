@@ -167,6 +167,7 @@ const WebComponent = () => (
         <path
           className="h"
         />
+          className="i"
           d="M 224.5 1.62652587890625 L 2.047393798828125 287 L 446.9526062011719 287 L 224.5 1.62652587890625 M 224.5 0 L 449 288 L 0 288 L 224.5 0 Z"
           className="h"
           className="i"
