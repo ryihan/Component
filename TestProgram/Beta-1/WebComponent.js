@@ -68,3 +68,18 @@ const WebComponent = () => (
               <g className="d" transform="translate(0.491)">
                 <rect className="h" width={1177} height={219} rx={43} />
                 <rect
+                  className="a"
+                  x={0.5}
+                  y={0.5}
+                  width={1176}
+                  height={218}
+                  rx={42.5}
+                />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g className="e" transform="translate(343.239 20.191)">
+        <g transform="translate(-366.239 -379.527)">
+          <path
