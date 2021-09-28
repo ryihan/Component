@@ -92,3 +92,11 @@ const WebComponent = () => (
       <g className="g" transform="translate(343 266)">
         <path
           className="h"
+          d="M 687.030029296875 482.5 L 0.9699594378471375 482.5 L 344 0.8618907332420349 L 687.030029296875 482.5 Z"
+        />
+        <path
+          className="i"
+          d="M 344 1.7237548828125 L 1.93988037109375 482 L 686.0601196289062 482 L 344 1.7237548828125 M 344 0 L 688 483 L 0 483 L 344 0 Z"
+        />
+      </g>
+      <g className="g" transform="translate(619 399)">
