@@ -9,3 +9,9 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { action } from "@storybook/addon-actions";
 
+import Web from "./WebComponent";
+
+export const myProps = {
+  id: "1",
+  className: "mySampleClass",
+  sampleString: "Test Task",
