@@ -13,3 +13,12 @@ const WebComponent = () => (
       <style>
         {
           ".a,.f{fill:none;}.b{clip-path:url(#d);}.c{clip-path:url(#a);}.d{fill:#ff2323;stroke:#fb0000;}.e{clip-path:url(#b);}.f{stroke:#707070;}.g,.j{fill:#fff;}.h,.i{stroke:none;}.i{fill:#707070;}"
+        }
+      </style>
+      <clipPath id="a">
+        <rect className="a" width={1177} height={568} />
+      </clipPath>
+      <clipPath id="b">
+        <rect className="a" width={866.137} height={196.618} />
+      </clipPath>
+      <clipPath id="d">
