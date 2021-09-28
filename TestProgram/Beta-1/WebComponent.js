@@ -83,3 +83,12 @@ const WebComponent = () => (
       <g className="e" transform="translate(343.239 20.191)">
         <g transform="translate(-366.239 -379.527)">
           <path
+            className="f"
+            d="M329.4,4c183,62.5,292.8,14.082,292.8,14.082l-149.728,7.7L405.928,67.6l306.11-20.906,76.527-13.2,146.4,7.7V67.6l119.782-34.11,53.236,22.007,36.6-37.411,49.909,37.411L964.912,199.637l-108.123-5.923L422.565,169.928,712.038,110.51l196.31,24.207"
+            transform="translate(37 376)"
+          />
+        </g>
+      </g>
+      <g className="g" transform="translate(343 266)">
+        <path
+          className="h"
